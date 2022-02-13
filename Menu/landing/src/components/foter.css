@@ -1,0 +1,15 @@
+.prop{
+background-color: color;
+position:absolute;
+}
+.text{
+    text-align: center;
+}
+.price{
+
+}
+
+.prop .selected{
+    background-color: black;
+
+}
